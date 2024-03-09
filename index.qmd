@@ -9,6 +9,17 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
 this is a comment from crystal
 
 This is another commit from Heather W
+
+## TRI Project Proposal
+
+-   Company Background
+
+-   Importance of mental health
+
+-   Supply and demand
+
+-   
